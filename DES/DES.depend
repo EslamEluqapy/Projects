@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621372644 source:c:\users\lenovo\documents\des\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<sstream>
+	<bitset>
+

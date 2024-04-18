@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1623572703 source:c:\users\lenovo\documents\rsa\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<bitset>
+	<sstream>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
