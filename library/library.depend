@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1606560951 source:e:\fci\second year fcai\oop\library\src\user.cpp
+	"User.h"
+	"Book.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1606560951 e:\fci\second year fcai\oop\library\include\user.h
+	<string>
+	<iostream>
+	<cstring>
+
+1606561095 source:e:\fci\second year fcai\oop\library\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+	<cstring>
+	"User.h"
+
+1606558439 e:\fci\second year fcai\oop\library\include\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1606561004 source:e:\fci\second year fcai\oop\library\main.cpp
+	<iostream>
+	"Book.h"
+	"User.h"
+	<string>
+	<cstring>
+
+1608929005 source:e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\main.cpp
+	<iostream>
+	"Book.h"
+	"User.h"
+	<string>
+	<Userlist.h>
+	<BookList.h>
+	<memory>
+
+1608901890 e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\include\book.h
+	<cstring>
+	<iostream>
+	"user.h"
+
+1608758754 e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\include\user.h
+	<string>
+	<iostream>
+	<cstring>
+
+1608904652 source:e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+	<cstring>
+	"User.h"
+	"BookList.h"
+
+1608904749 source:e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\src\user.cpp
+	"User.h"
+	"Book.h"
+	<string>
+	<iostream>
+	<cstring>
+	"Userlist.h"
+
+1608750135 e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\include\userlist.h
+	<string>
+	<iostream>
+	<cstring>
+	"user.h"
+	"book.h"
+
+1608928842 source:e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\src\userlist.cpp
+	"Userlist.h"
+	"User.h"
+	"Book.h"
+	<iostream>
+	<cstring>
+
+1608837307 e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\include\booklist.h
+	"User.h"
+	"book.h"
+
+1608928451 source:e:\fci\second year fcai\oop\new folder\n1_20195002_20195007\library\src\booklist.cpp
+	"BookList.h"
+	"User.h"
+	"Book.h"
+	"userlist.h"
+
+1608929005 source:e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\main.cpp
+	<iostream>
+	"Book.h"
+	"User.h"
+	<string>
+	<Userlist.h>
+	<BookList.h>
+	<memory>
+
+1608901890 e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\include\book.h
+	<cstring>
+	<iostream>
+	"user.h"
+
+1608758754 e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\include\user.h
+	<string>
+	<iostream>
+	<cstring>
+
+1608750135 e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\include\userlist.h
+	<string>
+	<iostream>
+	<cstring>
+	"user.h"
+	"book.h"
+
+1608837307 e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\include\booklist.h
+	"User.h"
+	"book.h"
+
+1608904652 source:e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+	<cstring>
+	"User.h"
+	"BookList.h"
+
+1608928451 source:e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\src\booklist.cpp
+	"BookList.h"
+	"User.h"
+	"Book.h"
+	"userlist.h"
+
+1608904749 source:e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\src\user.cpp
+	"User.h"
+	"Book.h"
+	<string>
+	<iostream>
+	<cstring>
+	"Userlist.h"
+
+1608928842 source:e:\fci\second year fcai\first term\oop\new folder\n1_20195002_20195007\library\src\userlist.cpp
+	"Userlist.h"
+	"User.h"
+	"Book.h"
+	<iostream>
+	<cstring>
+
